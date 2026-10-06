@@ -1,0 +1,18 @@
+Team ID,Team Name,College,Participant Name,Roll Number,Email,Phone
+T001,Code Warriors,St. Peter's Engineering College,Bala Mokshagna Reddy,24BK1A05BK,bala@email.com,9876543210
+T001,Code Warriors,St. Peter's Engineering College,Ravi Kumar,24BK1A05BL,ravi@email.com,9876543211
+T001,Code Warriors,St. Peter's Engineering College,Priya Sharma,24BK1A05BM,priya@email.com,9876543212
+T002,Tech Titans,VIT University,Arun Kumar,24VIT001,arun@email.com,9876543213
+T002,Tech Titans,VIT University,Sneha Nair,24VIT002,sneha@email.com,9876543214
+T002,Tech Titans,VIT University,Rahul Singh,24VIT003,rahul@email.com,9876543215
+T002,Tech Titans,VIT University,Anjali Patel,24VIT004,anjali@email.com,9876543216
+T003,Binary Bandits,IIT Hyderabad,Kiran Rao,24IIT001,kiran@email.com,9876543217
+T003,Binary Bandits,IIT Hyderabad,Meera Iyer,24IIT002,meera@email.com,9876543218
+T003,Binary Bandits,IIT Hyderabad,Sai Verma,24IIT003,sai@email.com,9876543219
+T004,Null Pointers,BITS Pilani,Rohit Mehta,24BITS001,rohit@email.com,9876543220
+T004,Null Pointers,BITS Pilani,Divya Reddy,24BITS002,divya@email.com,9876543221
+T004,Null Pointers,BITS Pilani,Vijay Kumar,24BITS003,vijay@email.com,9876543222
+T005,Stack Overflow,NIT Warangal,Pooja Sharma,24NIT001,pooja@email.com,9876543223
+T005,Stack Overflow,NIT Warangal,Arjun Singh,24NIT002,arjun@email.com,9876543224
+T005,Stack Overflow,NIT Warangal,Deepa Nair,24NIT003,deepa@email.com,9876543225
+T005,Stack Overflow,NIT Warangal,Suresh Patel,24NIT004,suresh@email.com,9876543226
